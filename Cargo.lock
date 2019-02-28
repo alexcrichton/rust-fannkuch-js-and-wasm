@@ -1,0 +1,4 @@
+[[package]]
+name = "rust-fannkuch-js-and-wasm"
+version = "0.1.0"
+
